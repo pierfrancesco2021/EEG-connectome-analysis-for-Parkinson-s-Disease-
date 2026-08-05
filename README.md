@@ -1,5 +1,7 @@
 # EEG-connectome-analysis-for-Parkinson-s-Disease-
 
+[![DOI](https://zenodo.org/badge/1323704258.svg)](https://doi.org/10.5281/zenodo.21803231)
+
 # Explainable Multi-Band Model for Enhanced EEG Signal Interpretation: Addressing Functional Connectivity Alteration in Parkinson’s Disease
 
 > **Authors**: Donato Romano, Michele Magarelli, Pierfrancesco Novielli, Federica Cuna, Domenico Diacono, Pierpaolo Di Bitonto, Alfonso Monaco, Nicola Amoroso, Roberto De Blasi, Giancarlo Logroscino, Roberto Bellotti, Sabina Tangaro
