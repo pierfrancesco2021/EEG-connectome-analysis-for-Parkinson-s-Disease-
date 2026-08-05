@@ -6,7 +6,7 @@
 
 ## 📊 Graphical Abstract
 
-![Graphical Abstract](graphical_abstract.png)
+![Graphical Abstract](eeg_upscayl_4x_realesrgan-x4plus.png)
 
 ## 📝 Abstract
 
